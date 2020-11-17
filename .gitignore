@@ -1,0 +1,9 @@
+.idea/*
+run_log.csv
+*.pyc
+cifar10/.idea/*
+*.gz
+.vscode
+venv
+tmp 
+'*.sqlite3' 
